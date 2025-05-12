@@ -1,0 +1,19 @@
+Mall Customer Segmentation Data — Data Cleaning Task
+This repository contains a cleaned version of the Mall Customer Segmentation Data from Kaggle.
+The original dataset included customer attributes such as gender, age, annual income, and spending score.
+
+Tasks Completed:
+Identified and handled missing values.
+
+Removed duplicate rows.
+
+Standardized text fields (e.g., consistent gender formatting).
+
+Converted date fields to a consistent format (if any).
+
+Renamed column headers to be clean, lowercase, and without spaces.
+
+Verified and corrected data types.
+
+Objective:
+The goal was to preprocess and clean the dataset to ensure it is ready for further analysis or machine learning tasks.
